@@ -2,3 +2,4 @@ data/*.csv
 anaconda_projects
 data/fredapi.txt
 .ipynb_checkpoints/
+.zip/
