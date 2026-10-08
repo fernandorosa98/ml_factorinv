@@ -20,11 +20,12 @@ To reproduce the project:
 
 The CSV file is not included in this repository and should be generated locally.
 
-## Reference
+## Implementation specifics
 
-The main reference for this repository is:
+* notebook/1_prior contains code of chapters 1,3 and 4. I closely follow the original implementation, diverging only in exercise solution + code simplification.
+* notebook/5_penalizedregregressions implements chapter 5. 
+   * MLF_5_book - book implementation. Additionally, I provide train-val-test implementation using optuna for ElasticNet
+   * MLF_5_ex - book exercise, very simple
+   * MLF_5_mine - walk forward bayesian optimization for ElasticNet, less features and stocks for training purposes.
 
-*Machine Learning for Factor Investing*
 
-Original online material and Python implementation:
-https://www.mlfactor.com/python.html
