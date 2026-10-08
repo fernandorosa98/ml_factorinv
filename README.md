@@ -1,11 +1,9 @@
 # Machine Learning for Factor Investing
 
-This repository contains my Python implementation and extensions of the book *Machine Learning for Factor Investing*.
+This repository contains a complementary Python implementation of the book *Machine Learning for Factor Investing*. While the core material follows the book, I also include extensions such as feature engineering techniques, code, topics, optimization routines, diagnostics, new algorithms, etc.
 
 The original material and Python code associated with the book are available at:
 https://www.mlfactor.com/python.html
-
-This repository is intended as a complementary implementation. While the core material follows the book, I also include additional feature engineering techniques, code, topics, optimization routines, algorithms, and my own implementations and extensions.
 
 ## Data
 
